@@ -30,8 +30,48 @@ Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse
 * ✅ Exportar datos en formatos **GeoJSON / GeoTIFF** para aplicaciones web
 * ✅ Construir un **dashboard interactivo** con React + Leaflet
 * ✅ Documentar todo el flujo de trabajo en GitHub
-
 ---
+## 🔬 Metodología :
+
+<div align="center">
+
+<p><strong>🛰️ Selección de datos Sentinel-2</strong></p>
+
+<p>⬇️</p>
+
+<p><strong>☁️ Control de calidad y nubosidad</strong></p>
+
+<p>⬇️</p>
+
+<p><strong>⚙️ Preprocesamiento de imágenes</strong></p>
+
+<p>⬇️</p>
+
+<p><strong>🎨 Composites RGB / Falso Color</strong></p>
+
+<p>⬇️</p>
+
+<p><strong>📊 Cálculo de índices espectrales</strong></p>
+
+<p>⬇️</p>
+
+<p><strong>🌑 Análisis Pre-Eclipse / Eclipse / Post-Eclipse</strong></p>
+
+<p>⬇️</p>
+
+<p><strong>🗺️ Procesamiento y visualización en QGIS</strong></p>
+
+<p>⬇️</p>
+
+<p><strong>📦 Exportación GeoTIFF / GeoJSON</strong></p>
+
+<p>⬇️</p>
+
+<p><strong>🌐 Visualización web con React + Leaflet</strong></p>
+
+</div>
+
+
 
 ## 📁 Estructura del Proyecto:
 
@@ -114,7 +154,7 @@ eclipse-sentinel2-analysis/
 
 🛰️ **ESA / Copernicus** :Imágenes Sentinel-2<br>
 🗺️ **Comunidad QGIS** : Herramientas open-source<br>
-🇪🇸 **Comunidad GIS de España** :Recursos y conocimiento<br>
+🇪🇸 **Comunidad GIS de España** :https://www.qgis.es/ <br>
 ✈️ **Telegram QGIS España** : https://t.me/qgis_es
 
 
