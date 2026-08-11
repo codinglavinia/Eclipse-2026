@@ -14,7 +14,17 @@ Estado: 🚧 En desarrollo
 Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse solar total del **12 de agosto de 2026 en España**, utilizando imágenes de satélite **Sentinel-2** y **QGIS** como herramientas de procesamiento de datos geoespaciales.
 
 ---
+<div align="center">
 
+<img src="assets/maps/solar_eclipse_path_spain_2026.png"
+     alt="Trayectoria del Eclipse Solar en España — 12 de agosto de 2026"
+     width="700">
+
+<br>
+
+*Mapa de referencia de la trayectoria y porcentaje de ocultación del eclipse solar del 12 de agosto de 2026.*
+
+</div>
 
 </div>
 
@@ -107,14 +117,14 @@ eclipse-sentinel2-analysis/
 
 ---
 
-<div align="center">
-  
-⭐ Agradecimientos :
+## Agradecimientos :
 
 🛰️ **ESA / Copernicus** — Imágenes Sentinel-2<br>
 🗺️ **Comunidad QGIS** — Herramientas open-source<br>
-🇪🇸 **Comunidad GIS de España** — Recursos y conocimiento
-Telegram @qgis_es :https://t.me/qgis_es 
+🇪🇸 **Comunidad GIS de España** — Recursos y conocimiento<br>
+✈️ **Telegram QGIS España** — [https://t.me/qgis_es](https://t.me/qgis_es)
+
+
 
 
 ---
