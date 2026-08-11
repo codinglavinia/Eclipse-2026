@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🛰️🌑 Análisis de Imágenes de Satélite Sentinel-2,Eclipse Solar : 12 de Agosto 2026
+# 🛰️🌑 Análisis de Imágenes de Satélite Sentinel-2
+# Eclipse 🌞Solar : 12 de Agosto 2026
 
 </div>
 
