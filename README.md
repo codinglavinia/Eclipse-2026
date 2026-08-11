@@ -112,10 +112,10 @@ eclipse-sentinel2-analysis/
 
 ## Agradecimientos :
 
-🛰️ **ESA / Copernicus** — Imágenes Sentinel-2<br>
-🗺️ **Comunidad QGIS** — Herramientas open-source<br>
-🇪🇸 **Comunidad GIS de España** — Recursos y conocimiento<br>
-✈️ **Telegram QGIS España** — [https://t.me/qgis_es](https://t.me/qgis_es)
+🛰️ **ESA / Copernicus** :Imágenes Sentinel-2<br>
+🗺️ **Comunidad QGIS** : Herramientas open-source<br>
+🇪🇸 **Comunidad GIS de España** :Recursos y conocimiento<br>
+✈️ **Telegram QGIS España** : https://t.me/qgis_es
 
 
 
