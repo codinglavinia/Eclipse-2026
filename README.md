@@ -85,15 +85,13 @@ eclipse-sentinel2-analysis/
 
 ---
 
-## 🌍 Recursos y Referencias :
+## 🌍 Recursos y referencias :
 
 ### 🛰️ Descargar imagenes satelitales
 
 * **Copernicus Sentinel-2 Hub:**
   https://dataspace.copernicus.eu/
 
-* **USGS Landsat:**
-  https://earthexplorer.usgs.gov/
 
 ### 📚 Para la documentación Técnica:
 
@@ -116,7 +114,7 @@ eclipse-sentinel2-analysis/
 🛰️ **ESA / Copernicus** — Imágenes Sentinel-2<br>
 🗺️ **Comunidad QGIS** — Herramientas open-source<br>
 🇪🇸 **Comunidad GIS de España** — Recursos y conocimiento
-
+Telegram @qgis_es :https://t.me/qgis_es 
 
 
 ---
