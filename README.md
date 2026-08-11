@@ -15,6 +15,9 @@ Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse
 
 ---
 
+
+</div>
+
 ## 🎯 Objetivos:
 
 * ✅ Descargar imágenes Sentinel-2 de alta resolución (**10 m**) de la zona de España
