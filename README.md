@@ -146,8 +146,9 @@ eclipse-sentinel2-analysis/
 
 ### 🔬 Artículos Científicos :
 
-* *Remote Sensing of Solar Eclipses* — Astrophysics Review
-* *Cloud Detection Algorithms for Sentinel-2* — ISPRS Journal
+* *Remote Sensing of Solar Eclipses* : https://blog.linknovate.com/innovation-during-solar-eclipse
+  
+* *Cloud Detection Algorithms for Sentinel-2* — ISPRS Journal : https://www.sciencedirect.com/science/article/pii/S2666017220300092
 
 ---
 
