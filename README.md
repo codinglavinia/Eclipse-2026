@@ -87,7 +87,7 @@ eclipse-sentinel2-analysis/
 ### 🛰️ Descargar imagenes satelitales
 
 * **Copernicus Sentinel-2 Hub:**
-  https://scihub.copernicus.eu/
+  https://dataspace.copernicus.eu/
 
 * **USGS Landsat:**
   https://earthexplorer.usgs.gov/
