@@ -1,0 +1,35 @@
+# Data files (GeoTIFF son enormes!)
+*.tif
+*.tiff
+*.img
+*.jp2
+
+# Raw satellite data
+data/raw/
+data/processed/*.tif
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+venv/
+eclipse_env/
+
+# QGIS
+*.qgz~
+.qgis3/
+
+# Node
+node_modules/
+.env
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
