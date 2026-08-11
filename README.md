@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️🌑 Análisis de Imágenes de Satélite Sentinel-2,Eclipse Solar ,12 de Agosto 2026
+# 🛰️🌑 Análisis de Imágenes de Satélite Sentinel-2,Eclipse Solar : 12 de Agosto 2026
 
 </div>
 
@@ -16,6 +16,10 @@ Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse
 ---
 
 </div>
+<img src="./assets/maps/solar_eclipse_path_spain_2026.png"
+     alt="Trayectoria del Eclipse Solar en España — 12 de agosto de 2026"
+     width="700">
+
 
 ## 🎯 Objetivos:
 
