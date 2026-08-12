@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️🌑 Análisis de Imágenes de Satélite Sentinel-2
+# 🛰️🌑 Análisis de Imágenes de Satélite
 # Eclipse 🌞Solar : 12 de Agosto 2026
 
 </div>
@@ -8,11 +8,11 @@
 Autora: Lavinia Bacaru (@codinglavinia)<br>
 Fecha de comienzo del proyecto: 11 de Agosto de 2026<br>
 Ubicación: España — Península Ibérica<br>
-Estado: 🚧 En desarrollo
+Estado: En desarrollo-In development 
 
 ##  Descripción del Proyecto:
 
-Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse solar total del **12 de agosto de 2026 en España**, utilizando imágenes de satélite **Sentinel-2** y **QGIS** como herramientas de procesamiento de datos geoespaciales.
+Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse solar total del **12 de agosto de 2026 en España**, utilizando imágenes de satélite y **QGIS** como herramientas de procesamiento de datos geoespaciales.
 
 ---
 
@@ -24,7 +24,7 @@ Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse
 
 ## 🎯 Objetivos:
 
-* ✅ Descargar imágenes Sentinel-2 de alta resolución (**10 m**) de la zona de España
+* ✅ Descargar imágenes de alta resolución (**10 m**) de la zona de España
 * ✅ Procesar datos brutos en **QGIS** mediante composites RGB y falso color
 * ✅ Analizar la cobertura de nubes y cambios atmosféricos durante la totalidad
 * ✅ Crear visualizaciones comparativas (**pre-eclipse vs. post-eclipse**)
@@ -36,7 +36,7 @@ Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse
 
 <div align="center">
 
-<p><strong>🛰️ Selección de datos Sentinel-2</strong></p>
+<p><strong>🛰️ Selección de datos </strong></p>
 
 <p>⬇️</p>
 
@@ -133,11 +133,11 @@ eclipse-sentinel2-analysis/
 
 ### 🛰️ Descargar imagenes satelitales
 
-* **Copernicus Sentinel-2 Hub:**
+* **Copernicus :**
   https://dataspace.copernicus.eu/
 
 
-### 📚 Para la documentación Técnica:
+### 📚 Documentación Técnica:
 
 * [Documentación QGIS](https://qgis.org/documentation/)
 * [Rasterio Documentation](https://rasterio.readthedocs.io/)
@@ -148,16 +148,17 @@ eclipse-sentinel2-analysis/
 
 * *Remote Sensing of Solar Eclipses* : https://blog.linknovate.com/innovation-during-solar-eclipse
   
-* *Cloud Detection Algorithms for Sentinel-2* — ISPRS Journal : https://www.sciencedirect.com/science/article/pii/S2666017220300092
+* *Cloud Detection Algorithms for Sentinel-2 and Sentinel 5* — ISPRS Journal : https://www.sciencedirect.com/science/article/pii/S2666017220300092
 
 ---
 
 ## Agradecimientos :
 
-🛰️ **ESA / Copernicus** :Imágenes Sentinel-2 <br>
+🛰️ **Skyline** :  https://theskylive.com/solar-eclipse?id=2026-08-12 <br>
+🛰️ **EUMETSAT**: https://user.eumetsat.int/data-access/eumetcast-europe <br>
 🗺️ **Comunidad QGIS** : https://qgis.org/community <br>
 🇪🇸 **Comunidad GIS de España** :https://www.qgis.es <br>
-✈️ **Telegram QGIS España** : https://t.me/qgis_es
+🔵**Telegram QGIS España** : https://t.me/qgis_es
 
 
 
