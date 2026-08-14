@@ -77,54 +77,52 @@ Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse
 ## 📁 Estructura del Proyecto:
 
 ```text
-eclipse-sentinel2-analysis/
-│
+eclipse-satellite- analysis
 │
 ├── data/
-│   ├── raw/                           # Imágenes RAW Sentinel-2 
-│   │   ├── 2026-08-11_S2_pre/
-│   │   ├── 2026-08-12_S2_eclipse/
-│   │   └── 2026-08-13_S2_post/
+│   ├── raw/
+│   │   ├── sentinel-2/
+│   │   │   ├── 2026-08-11_pre/
+│   │   │   ├── 2026-08-12_eclipse/
+│   │   │   └── 2026-08-13_post/
+│   │   │
+│   │   ├── sentinel-5p/
+│   │   │   └── 2026-08-12/
+│   │   │
+│   │   └── meteosat/
+│   │       └── 2026-08-12/
 │   │
-│   └── processed/                     # Datos procesados
-│       ├── eclipse_pre.tif
-│       ├── eclipse_eclipse.tif
-│       ├── eclipse_post.tif
-│       ├── cloud_cover.geojson
-│       └── eclipse_path.geojson
+│   └── processed/
+│       ├── sentinel-2/
+│       ├── sentinel-5p/
+│       └── meteosat/
+│
+├── aoi/
+│   ├── spain.geojson
+│   └── eclipse_path.geojson
 │
 ├── qgis_workflows/
-│   ├── eclipse_analysis.qgz            # Proyecto QGIS (workspace)
-│   ├── band_composite_script.py        # Script PyQGIS para composites
-│   └── cloud_detection_algorithm.py    # Algoritmo de detección de nubes
+│   ├── eclipse_analysis.qgz
+│   ├── sentinel2_processing.py
+│   ├── sentinel5p_analysis.py
+│   └── cloud_detection_algorithm.py
 │
 ├── scripts/
-│   ├── download_sentinel2.py           # Script de descarga de datos
-│   ├── preprocess_imagery.py           # Procesamiento de imágenes
-│   ├── calculate_ndci.py               # Cálculo de índices espectrales
-│   └── export_geojson.py               # Exportar a formatos web
+│   ├── download_sentinel2.py
+│   ├── download_sentinel5p.py
+│   ├── preprocess_imagery.py
+│   └── export_geojson.py
 │
 ├── visualization/
 │   ├── dashboard/
-│   │   ├── package.json
-│   │   ├── src/
-│   │   │   ├── App.jsx
-│   │   │   ├── components/
-│   │   │   │   ├── MapComponent.jsx
-│   │   │   │   ├── ComparisonSlider.jsx
-│   │   │   │   └── CloudAnalytics.jsx
-│   │   │   └── styles/
-│   │   └── public/
-│   │
 │   └── maps/
-│       ├── eclipse_coverage.html
-│       └── cloud_analysis.html
 │
-├── docs/
-│   ├── WORKFLOW.md
-│   ├── QGIS_TUTORIAL.md
-│   ├── CLOUD_DETECTION.md
-│   └── RESULTS.md
+└── docs/
+    ├── WORKFLOW.md
+    ├── QGIS_TUTORIAL.md
+    ├── SENTINEL5P_ANALYSIS.md
+    ├── CLOUD_DETECTION.md
+    └── RESULTS.md
 ```
 
 ---
