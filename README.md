@@ -80,7 +80,8 @@ eclipse-satellite- analysis
 
 ## 🌍 Recursos y referencias :
 
-### 🛰️ Descargar imagenes satelitales
+### 🛰️ Descargar datos:
+ * **Instituto Geográfico Nacional de España:**: https://www.ign.es/web/ign/portal
 
 * **Copernicus :**
   https://dataspace.copernicus.eu/
