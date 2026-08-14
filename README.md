@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🛰️🌑 Análisis de Imágenes de Satélite
+# 🛰️🌑 proyecto geospacial
 # Eclipse 🌞Solar : 12 de Agosto 2026
 
 </div>
 
 Autora: Lavinia Bacaru (@codinglavinia)<br>
 Fecha de comienzo del proyecto: 11 de Agosto de 2026<br>
-Ubicación: España — Península Ibérica<br>
+Ubicación: España <br>
 Estado: En desarrollo-In development 
 
 ##  Descripción del Proyecto:
@@ -78,10 +78,14 @@ eclipse-satellite- analysis
 
 ---
 
-## 🌍 Recursos y referencias :
+##  Recursos :
 
-### 🛰️ Descargar datos:
- * **Instituto Geográfico Nacional de España:**: https://www.ign.es/web/ign/portal
+###  Descargar datos:
+  **Centro de Descargas del Instituto Geográfico Nacional:** https://centrodedescargas.cnig.es/CentroDescargas/eclipses <br>
+  
+  **Instituto Geográfico Nacional de España:** https://www.ign.es/web/ign/portal <br>
+  
+   **España:**: https://geojson.io/?map=3.72/35.94898/-6.91665 <br>
 
 * **Copernicus :**
   https://dataspace.copernicus.eu/
@@ -106,7 +110,7 @@ eclipse-satellite- analysis
 
 🛰️ **Skyline** :  https://theskylive.com/solar-eclipse?id=2026-08-12 <br>
 🛰️ **EUMETSAT**: https://user.eumetsat.int/data-access/eumetcast-europe <br>
-🗺️ **Comunidad QGIS** : https://qgis.org/community <br>
+ **Comunidad 🌍QGIS** : https://qgis.org/community <br>
 🇪🇸 **Comunidad GIS de España** :https://www.qgis.es <br>
 🔵**Telegram QGIS España** : https://t.me/qgis_es
 
