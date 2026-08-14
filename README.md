@@ -22,55 +22,6 @@ Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse
      width="700">
 
 
-## 🎯 Objetivos:
-
-* ✅ Descargar imágenes de alta resolución (**10 m**) de la zona de España
-* ✅ Procesar datos brutos en **QGIS** mediante composites RGB y falso color
-* ✅ Analizar la cobertura de nubes y cambios atmosféricos durante la totalidad
-* ✅ Crear visualizaciones comparativas (**pre-eclipse vs. post-eclipse**)
-* ✅ Exportar datos en formatos **GeoJSON / GeoTIFF** para aplicaciones web
-* ✅ Construir un **dashboard interactivo** con React + Leaflet
-* ✅ Documentar todo el flujo de trabajo en GitHub
----
-## 🔬 Metodología :
-
-<div align="center">
-
-<p><strong>🛰️ Selección de datos </strong></p>
-
-<p>⬇️</p>
-
-<p><strong>☁️ Control de calidad y nubosidad</strong></p>
-
-<p>⬇️</p>
-
-<p><strong>⚙️ Preprocesamiento de imágenes</strong></p>
-
-<p>⬇️</p>
-
-<p><strong>🎨 Composites RGB / Falso Color</strong></p>
-
-<p>⬇️</p>
-
-<p><strong>📊 Cálculo de índices espectrales</strong></p>
-
-<p>⬇️</p>
-
-<p><strong>🌑 Análisis Pre-Eclipse / Eclipse / Post-Eclipse</strong></p>
-
-<p>⬇️</p>
-
-<p><strong>🗺️ Procesamiento y visualización en QGIS</strong></p>
-
-<p>⬇️</p>
-
-<p><strong>📦 Exportación GeoTIFF / GeoJSON</strong></p>
-
-<p>⬇️</p>
-
-<p><strong>🌐 Visualización web con React + Leaflet</strong></p>
-
-</div>
 
 
 
