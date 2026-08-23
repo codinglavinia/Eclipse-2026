@@ -6,8 +6,8 @@
 </div>
 
 Autora: Lavinia Bacaru (@codinglavinia)<br>
-Ubicación: España <br>
-Estado: En desarrollo
+
+Estado: 85 % — En desarrollo (fase QGIS :cartografia +vizualizacion )
 
 ##  Descripción del Proyecto:
 
@@ -15,16 +15,8 @@ Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse
 
 ---
 
-</div>
-<img src="./assets/maps/solar_eclipse_path_spain_2026.png"
-     alt="Trayectoria del Eclipse Solar en España — 12 de agosto de 2026"
-     width="700">
 
-
-
-
-
-## 📁 Estructura del Proyecto:
+##  Estructura del Proyecto:
 
 ```text
 eclipse-satellite-analysis/
