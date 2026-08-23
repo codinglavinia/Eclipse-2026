@@ -1,35 +1,69 @@
-# Data files (GeoTIFF son enormes!)
+# ============================================
+# DATOS SATELITALES (¡archivos enormes!)
+# ============================================
 *.tif
 *.tiff
 *.img
 *.jp2
+*.nc
+*.nc4
+*.hdf
+*.h5
 
-# Raw satellite data
+# Archivos comprimidos descargados (KMZ del eclipse, GADM, etc.)
+*.zip
+*.kmz
+
+# Datos brutos / procesados
 data/raw/
 data/processed/*.tif
+data/processed/*.nc
 
-# Python
+# ============================================
+# PYTHON
+# ============================================
 __pycache__/
 *.pyc
 *.egg-info/
 venv/
 eclipse_env/
+.venv/
+.ipynb_checkpoints/
 
+# ============================================
+# SALIDAS DE JUPYTER NOTEBOOK (opcional, ver nota abajo)
+# ============================================
+# *.ipynb (comentado - ver explicación más abajo)
+
+# ============================================
 # QGIS
+# ============================================
 *.qgz~
 .qgis3/
+*.gpkg-journal
 
-# Node
+# ============================================
+# NODE / VITE (React)
+# ============================================
 node_modules/
 .env
+.env.local
+.env.*.local
 dist/
 build/
+.vite/
+*.log
 
-# OS
+# ============================================
+# SISTEMA OPERATIVO
+# ============================================
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# IDE
+# ============================================
+# EDITOR / IDE
+# ============================================
 .vscode/
 .idea/
 *.swp
