@@ -6,9 +6,8 @@
 </div>
 
 Autora: Lavinia Bacaru (@codinglavinia)<br>
-Fecha de comienzo del proyecto: 11 de Agosto de 2026<br>
 Ubicación: España <br>
-Estado: En desarrollo-In development 
+Estado: En desarrollo
 
 ##  Descripción del Proyecto:
 
@@ -28,55 +27,59 @@ Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse
 ## 📁 Estructura del Proyecto:
 
 ```text
-eclipse-satellite- analysis
+eclipse-satellite-analysis/
 │
-├── data/
-│   ├── raw/
-│   │   ├── sentinel-2/
-│   │   │   ├── 2026-08-11_pre/
-│   │   │   ├── 2026-08-12_eclipse/
-│   │   │   └── 2026-08-13_post/
-│   │   │
-│   │   ├── sentinel-5p/
-│   │   │   └── 2026-08-12/
-│   │   │
-│   │   └── meteosat/
-│   │       └── 2026-08-12/
+├── datos/
 │   │
-│   └── processed/
-│       ├── sentinel-2/
-│       ├── sentinel-5p/
-│       └── meteosat/
+│   └── copernicus-data-space/
+│       │
+│       └── sentinel-5p-tropomi/
+│           │
+│           ├── datos-originales/
+│           │   ├── 2026-08-11_antes/
+│           │   ├── 2026-08-12_eclipse/
+│           │   └── 2026-08-13_despues/
+│           │
+│           └── geotiff/
+│               ├── 2026-08-11_antes/
+│               ├── 2026-08-12_eclipse/
+│               └── 2026-08-13_despues/
 │
 ├── aoi/
-│   ├── spain.geojson
-│   └── eclipse_path.geojson
+│   ├── espana.geojson
+│   └── trayectoria_eclipse.geojson
 │
-├── qgis_workflows/
-│   ├── eclipse_analysis.qgz
-│   ├── sentinel2_processing.py
-│   ├── sentinel5p_analysis.py
-│   └── cloud_detection_algorithm.py
+├── notebooks/
+│   └── analisis_no2_sentinel5p_eclipse_2026.ipynb
+│
+├── qgis/
+│   ├── analisis_eclipse.qgz
+│   │
+│   ├── estilos/
+│   │   ├── no2.qml
+│   │   └── trayectoria_eclipse.qml
+│   │
+│   └── exportaciones/
+│       ├── mapas/
+│       └── 3d/
 │
 ├── scripts/
-│   ├── download_sentinel2.py
-│   ├── download_sentinel5p.py
-│   ├── preprocess_imagery.py
-│   └── export_geojson.py
+│   ├── analisis_sentinel5p_tropomi.py
+│   └── exportar_geojson.py
 │
-├── visualization/
-│   ├── dashboard/
-│   └── maps/
+├── visualizacion/
+│   ├── mapas/
+│   └── 3d/
 │
-└── docs/
-    ├── WORKFLOW.md
-    ├── QGIS_TUTORIAL.md
-    ├── SENTINEL5P_ANALYSIS.md
-    ├── CLOUD_DETECTION.md
-    └── RESULTS.md
+├── documentacion/
+│   ├── FLUJO_TRABAJO.md
+│   ├── COPERNICUS_DATA_SPACE.md
+│   ├── ANALISIS_SENTINEL5P_NO2.md
+│   └── RESULTADOS.md
+│
+├── README.md
+└── .gitignore
 ```
-
----
 
 ##  Recursos :
 
@@ -88,7 +91,7 @@ eclipse-satellite- analysis
    **España:**: https://geojson.io/?map=3.72/35.94898/-6.91665 <br>
 
 * **Copernicus :**
-  https://dataspace.copernicus.eu/
+  https://dataspace.copernicus.eu
 
 
 ### 📚 Documentación Técnica:
