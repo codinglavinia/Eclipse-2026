@@ -1,18 +1,12 @@
 <div align="center">
-
-# 🛰️🌑 proyecto geospacial
-# Eclipse 🌞Solar : 12 de Agosto 2026
+ 
+## Eclipse 🌞Solar : 12 de Agosto 2026
 
 </div>
 
-
-
-Estado del proyecto: <img width="206" height="28" alt="image" src="https://github.com/user-attachments/assets/ac9581a8-8870-47ea-a536-5b9cc1452958" />
- (fase QGIS :cartografia +vizualizacion )
-
 ##  Descripción del Proyecto:
 
-Este proyecto realiza un análisis geoespacial detallado del impacto del eclipse solar total del **12 de agosto de 2026 en España**, utilizando imágenes de satélite y **QGIS** como herramientas de procesamiento de datos geoespaciales.
+Este proyecto realiza un análisis geoespacial detallada del impacto del Eclipse Solar del **12 de agosto de 2026 en España**, utilizando imágenes de satélite y **QGIS** como herramientas de procesamiento de datos geoespaciales.
 
 ---
 
@@ -105,7 +99,7 @@ eclipse-satellite-analysis/
 ## Agradecimientos :
 
 **🚀NASA🚀 : https://eclipse.gsfc.nasa.gov/OH/OH2026.html#SE2026Aug12T<br>
-**Xavier Jubier**http://xjubier.free.fr/en/site_pages/solar_eclipses/TSE_2027_GoogleMapFull.html<br>
+**Xavier Jubier** http://xjubier.free.fr/en/site_pages/solar_eclipses/TSE_2026_GoogleMapFull.html<br>
 🛰️ **Skyline** :  https://theskylive.com/solar-eclipse?id=2026-08-12 <br>
 🛰️ **EUMETSAT**: https://user.eumetsat.int/data-access/eumetcast-europe <br>
  **Comunidad 🌍QGIS** : https://qgis.org/community <br>
